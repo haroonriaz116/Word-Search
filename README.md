@@ -1,4 +1,4 @@
-# Word Search
+# Word-Search
 
 A console-based word search game that generates a randomized letter grid and challenges players to find as many hidden dictionary words within it as possible.
 
